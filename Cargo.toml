@@ -1,0 +1,11 @@
+[package]
+name = "partition-tolerance"
+version = "0.1.0"
+edition = "2021"
+description = "Network partition simulation: partition detector, quorum checking, stale read detection, healing"
+license = "MIT"
+repository = "https://github.com/SuperInstance/partition-tolerance"
+keywords = ["partition", "quorum", "distributed", "network", "tolerance"]
+categories = ["algorithms", "simulation", "network-programming"]
+
+[dependencies]
